@@ -34,10 +34,6 @@ As I continue to grow in my software development journey, I eagerly anticipate t
 * **Editor**: Visual Studio Code
 * **OS**: macOS Ventura
 
-## Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlukerogers&layout=donut)](https://github.com/dlukerogers/github-readme-stats)
-
 ## Professional Competencies
 
 * **Growth Mindset**
