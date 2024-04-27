@@ -28,7 +28,7 @@ As I continue to grow in my software development journey, I eagerly anticipate t
 
 ## Technologies and Tools
 
-* **Languages**: JavaScript(ES6), HTML5, CSS3, Markdown
+* **Languages**: Python, JavaScript(ES6), HTML5, CSS3, Markdown
 * **Libraries/Tools**: React, Git, npm, Node.js, Chart.js
 * **Frameworks/Layouts**: Express.js, CSS Flexbox & Grid
 * **Editor**: Visual Studio Code
@@ -67,16 +67,13 @@ As I embark on this journey, I am fueled by the vision of imparting my knowledge
 
 ## Projects I am Currently Working on
 
-* [My Portfolio](https://github.com/dlukerogers/portfolio)
-* [City Explorer](https://github.com/dlukerogers/city-explorer)
-* [City Explorer API](https://github.com/dlukerogers/city-explorer-api)
+* [Future Football](https://github.com/dlukerogers/future-football)
 
 ## What I am Currently Learning About
 
-* React
-* APIs
-* String methods in JS
-* Building servers
+* Python
+* WordPress
+* Angular.js
 
 ## Fun Facts
 
