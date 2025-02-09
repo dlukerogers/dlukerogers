@@ -28,7 +28,7 @@ As I continue to grow in my software development journey, I eagerly anticipate t
 
 ## Technologies and Tools
 
-* **Languages**: Python, JavaScript(ES6), HTML5, CSS3, Markdown
+* **Languages**: Python, JavaScript(ES6), Go, HTML5, CSS3, Markdown
 * **Libraries/Tools**: React, Git, npm, Node.js, Chart.js
 * **Frameworks/Layouts**: Express.js, CSS Flexbox & Grid
 * **Editor**: Visual Studio Code
@@ -67,19 +67,21 @@ As I embark on this journey, I am fueled by the vision of imparting my knowledge
 
 ## Projects I am Currently Working on
 
+* [Grad Gig](https://gradgig.co)
+* [College to Pro Comparison Tool]
 * [Future Football](https://github.com/dlukerogers/future-football)
 
 ## What I am Currently Learning About
 
-* Python
+* Go
 * WordPress
-* Angular.js
 
 ## Fun Facts
 
+* I'm training for a triathlon that I will complete in August 2025 🏊🏼‍♂️🚴🏼‍♂️🏃🏼‍♂️
 * I love watching and following sports 🏈🏀⚽🏒
 * I played offensive line for the Wheaton College football team 🏈
-* I like to mess around on the guitar 🎵
+* I like to learn how to play my favorite songs on the guitar 🎵
 * I enjoy card games and have recently gotten into Monopoly Deal 🃏
 * I am passionate about cooking and continue to discover delicious new meals and recipes 😋
 
