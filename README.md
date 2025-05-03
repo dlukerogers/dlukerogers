@@ -67,14 +67,14 @@ As I embark on this journey, I am fueled by the vision of imparting my knowledge
 
 ## Projects I am Currently Working on
 
+* [Stat Match](https://statmatch.online)
 * [Grad Gig](https://gradgig.co)
-* [College to Pro Comparison Tool]
-* [Future Football](https://github.com/dlukerogers/future-football)
 
 ## What I am Currently Learning About
 
 * Go
 * WordPress
+* Data Structures and Algorithms
 
 ## Fun Facts
 
